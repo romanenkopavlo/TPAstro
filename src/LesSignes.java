@@ -12,6 +12,7 @@ public class LesSignes {
         leMois = leMois.toLowerCase();
 
 
+
         if (laDate <= 20 && leMois == new String("mars")) {
             System.out.println("Hello");
         }
